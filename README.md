@@ -44,6 +44,8 @@ A simple implementation of the classic Tic-Tac-Toe game. This project allows two
 - Players take turns placing their mark (X or O) in an empty cell. ❌⭕
 - The first player to align three marks in a row (horizontally, vertically, or diagonally) wins. 🏆
 - If all cells are filled without a winner, the game ends in a draw. 🤝
+## Game screenshots
+![Game screenshot](https://github.com/sharmilabotcha/Tictactoegame/blob/main/Screenshot%202024-10-18%20232309.png)
 
 ## Contributing 🤝
 
