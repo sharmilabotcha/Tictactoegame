@@ -47,6 +47,7 @@ A simple implementation of the classic Tic-Tac-Toe game. This project allows two
 ## Game screenshots
 ![Game screenshot](https://github.com/sharmilabotcha/Tictactoegame/blob/main/Screenshot%202024-10-18%20232309.png)
 ![Game screenshot](https://github.com/sharmilabotcha/Tictactoegame/blob/main/Screenshot%202024-10-18%20232335.png)
+[Watch the video here](https://github.com/sharmilabotcha/Tictactoegame/blob/main/Screen%20Recording%202024-10-18%20232434.mp4)
 
 
 ## Contributing 🤝
