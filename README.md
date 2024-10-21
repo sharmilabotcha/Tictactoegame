@@ -46,6 +46,8 @@ A simple implementation of the classic Tic-Tac-Toe game. This project allows two
 - If all cells are filled without a winner, the game ends in a draw. 🤝
 ## Game screenshots
 ![Game screenshot](https://github.com/sharmilabotcha/Tictactoegame/blob/main/Screenshot%202024-10-18%20232309.png)
+![Game screenshot](https://github.com/sharmilabotcha/Tictactoegame/blob/main/Screenshot%202024-10-18%20232335.png)
+
 
 ## Contributing 🤝
 
